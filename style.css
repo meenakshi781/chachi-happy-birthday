@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-image:"birthday-background-image_1359.jpeg" ;
+    background-position: center;
+    background-size: cover;
+}
+ #firstp{
+    word-spacing: 10px;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 80px;
+  }
+  
+  #reasontext{
+    font-size:50px;
+    font-family: cursive;
+    color:red;
+  }
+  
+  
+  #album
+  {
+    border-style:solid;
+    border-color:#689F38 border: 1px 
+    border-radius: 50px;
+    padding: auto;
+     width: 300px;
+     
+  }
+  
